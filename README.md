@@ -1,2 +1,2 @@
 # Event-Calendar-App
-This is a Event Management System App for University,i made this using flutter and Firebase 
+This is a Event Calendar App,i made this for my university final year project
